@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Strings</StartupObject>
+    <StartupObject>Arrays</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,9 @@
     <Compile Include="2.Datatypes.cs" />
     <Compile Include="1.Basics.cs" />
     <Compile Include="3.Strings.cs" />
+    <Compile Include="4.Operators.cs" />
+    <Compile Include="5.DatatypeConversations.cs" />
+    <Compile Include="6.Array.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
