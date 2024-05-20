@@ -54,6 +54,14 @@ class Loops
         int[] numbers = { 1, 2, 3, 4, 5 };
         foreach (int number in numbers)  //iteration
         {
+            //if(number == 1)
+            //{
+            //    //statement;
+            //}
+            //if(number /  3 == 0)
+            //{
+            //    //statement;
+            //}
             Console.WriteLine($"Number is {number}");
             Console.WriteLine("Hello world"); // repeat
         }
